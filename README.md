@@ -1,4 +1,4 @@
-                                                                        Next Word Prediction with LSTM (Shakespeare's Hamlet)
+Next Word Prediction with LSTM (Shakespeare's Hamlet)
 This project implements a text generation model using a Long Short-Term Memory (LSTM) Recurrent Neural Network (RNN) to predict the next word in a sequence based on the full text of Shakespeare's Hamlet.
 The model is trained to capture the complex patterns, syntax, and vocabulary of the classic text, allowing it to generate new lines in a similar style.
 
@@ -14,9 +14,11 @@ Key Features:
         
 Getting Started: To run this project and the Streamlit demo locally, follow these steps: Clone the Repository and navigate to the project directory.
 Install Dependencies:It is recommended to use a virtual environment before running the following command:
+                        
                         pip install -r requirements.txt
 
 Run the App: After installing the dependencies then run this command in same python environment to show the webpage. 
+                        
                         streamlit run app.py
 
 Also, you can visit this model prediction in online. just visit this url https://predictnextworde.streamlit.app/.
