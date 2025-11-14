@@ -14,4 +14,4 @@ Technology StackDeep Learning Framework: TensorFlow / KerasCore Libraries: NumPy
 Run the App: After installing the dependencies then run this command in same python environment to show the webpage. 
                         streamlit run app.py
 
-Also, you can visit this model prediction in online. just visit this url 
+Also, you can visit this model prediction in online. just visit this url https://predictnextworde.streamlit.app/.
